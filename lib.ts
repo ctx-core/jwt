@@ -1,7 +1,7 @@
 import { _atob } from '@ctx-core/atob'
 import { throw__bad_credentials } from '@ctx-core/error'
 import { log } from '@ctx-core/logger'
-const logPrefix = '@ctx-core/jwt/lib.js'
+const logPrefix = '@ctx-core/jwt/lib'
 export type Token = {
 	error?:any
 	id_token?:string
