@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jwt",
-	"version": "3.3.19",
+	"version": "3.3.20",
 	"description": "ctx-core jwt",
 	"main": "lib.js",
 	"module": "lib.js",
@@ -28,9 +28,9 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "^4.2.22",
-		"@ctx-core/error": "^5.1.69",
-		"@ctx-core/logger": "^3.1.13"
+		"@ctx-core/atob": "^4.2.23",
+		"@ctx-core/error": "^5.1.70",
+		"@ctx-core/logger": "^3.1.14"
 	},
 	"devDependencies": {
 		"typescript": "^3.8.3"
