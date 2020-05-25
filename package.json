@@ -2,6 +2,7 @@
 	"name": "@ctx-core/jwt",
 	"version": "3.3.26",
 	"description": "ctx-core jwt",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"scripts": {
