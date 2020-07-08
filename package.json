@@ -2,8 +2,9 @@
 	"name": "@ctx-core/jwt",
 	"version": "3.3.33",
 	"description": "ctx-core jwt",
-	"main": "lib.js",
-	"module": "lib.js",
+	"main": "index.js",
+	"module": "index.js",
+	"types": "index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
