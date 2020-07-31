@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jwt",
-	"version": "3.3.40",
+	"version": "3.3.41",
 	"description": "ctx-core jwt",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -30,7 +30,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/atob": "^4.2.34",
-		"@ctx-core/error": "^5.1.90",
+		"@ctx-core/error": "^5.1.91",
 		"@ctx-core/logger": "^3.1.21"
 	},
 	"devDependencies": {
