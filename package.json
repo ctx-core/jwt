@@ -30,8 +30,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/atob": "^4.2.36",
-		"@ctx-core/error": "^5.1.102",
-		"@ctx-core/logger": "^3.1.23"
+		"@ctx-core/error": "^5.1.102"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.7"
