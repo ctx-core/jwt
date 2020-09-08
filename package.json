@@ -29,7 +29,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "^4.2.38",
+		"@ctx-core/atob": "^4.2.39",
 		"@ctx-core/error": "^5.1.107"
 	},
 	"devDependencies": {
