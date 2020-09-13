@@ -2,39 +2,39 @@
 	"name": "@ctx-core/jwt",
 	"version": "3.3.61",
 	"description": "ctx-core jwt",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
-	"scripts": {
-		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
-		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
+	"keywords": [
+		"ctx-core",
+		"jwt"
+	],
+	"homepage": "https://github.com/ctx-core/jwt#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/jwt/issues"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ctx-core/jwt/issues"
 	},
-	"keywords": [
-		"ctx-core",
-		"jwt"
-	],
-	"author": "Brian Takita",
 	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/jwt/issues"
-	},
-	"homepage": "https://github.com/ctx-core/jwt#readme",
-	"publishConfig": {
-		"access": "public"
+	"author": "Brian Takita",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
+	"scripts": {
+		"build": "npm run compile",
+		"clean": "rm -f tsconfig.tsbuildinfo",
+		"compile": "tsc -b",
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "^4.2.41",
-		"@ctx-core/error": "^5.1.109"
+		"@ctx-core/atob": "workspace:*",
+		"@ctx-core/error": "workspace:*"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "35e1742b822359f90d8661fbd341909b5705bee1"
 }
