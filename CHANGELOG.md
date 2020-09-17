@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 5.0.1
+
+### Patch Changes
+
+- fix: npm run compile: path to tsc
+- Updated dependencies [undefined]
+  - @ctx-core/atob@4.2.43
+  - @ctx-core/error@6.0.1
+  - @ctx-core/function@15.0.1
+
 ## 5.0.0
 
 ### Major Changes
