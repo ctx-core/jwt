@@ -1,5 +1,18 @@
 # @ctx-core/jwt
 
+## 6.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/atob@5.0.0
+  - @ctx-core/error@7.0.0
+  - @ctx-core/function@16.0.0
+
 ## 5.0.1
 
 ### Patch Changes
