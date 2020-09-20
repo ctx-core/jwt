@@ -1,5 +1,13 @@
 # @ctx-core/jwt
 
+## 6.0.1
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+- Updated dependencies [undefined]
+  - @ctx-core/error@7.0.1
+
 ## 6.0.0
 
 ### Major Changes
