@@ -1,5 +1,11 @@
 # @ctx-core/jwt
 
+## 6.0.9
+
+### Patch Changes
+
+- @ctx-core/error@7.0.7
+
 ## 6.0.8
 
 ### Patch Changes
