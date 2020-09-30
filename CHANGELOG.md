@@ -1,5 +1,11 @@
 # @ctx-core/jwt
 
+## 6.0.17
+
+### Patch Changes
+
+- fix: tsc build issues
+
 ## 6.0.16
 
 ### Patch Changes
