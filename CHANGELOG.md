@@ -1,5 +1,16 @@
 # @ctx-core/jwt
 
+## 6.1.0
+
+### Minor Changes
+
+- interface instead of type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/error@7.1.0
+
 ## 6.0.20
 
 ### Patch Changes
