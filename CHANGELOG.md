@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 6.2.0
+
+### Minor Changes
+
+- Extract separate modules
+
+### Patch Changes
+
+- @ctx-core/error@7.1.2
+
 ## 6.1.1
 
 ### Patch Changes
