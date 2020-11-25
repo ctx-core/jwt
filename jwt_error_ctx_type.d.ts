@@ -1,4 +1,5 @@
 import type { error_ctx_type } from '@ctx-core/error';
-export declare type jwt_error_ctx_type = error_ctx_type & {
+export interface jwt_error_ctx_interface {
     jwt_token: string;
-};
+}
+export declare type jwt_error_ctx_type = error_ctx_type & jwt_error_ctx_interface;
