@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jwt",
-	"version": "6.2.5",
+	"version": "6.2.6",
 	"description": "ctx-core jwt",
 	"keywords": [
 		"ctx-core",
@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/atob": "workspace:^6.0.0",
-		"@ctx-core/error": "workspace:^7.1.6",
+		"@ctx-core/error": "workspace:^7.1.7",
 		"@ctx-core/function": "workspace:^16.1.5"
 	},
 	"devDependencies": {
