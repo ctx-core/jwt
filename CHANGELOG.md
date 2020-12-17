@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 6.2.5
+
+### Patch Changes
+
+- interface instead of type: jwt_error_ctx_type
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/function@16.1.5
+  - @ctx-core/error@7.1.6
+
 ## 6.2.4
 
 ### Patch Changes
