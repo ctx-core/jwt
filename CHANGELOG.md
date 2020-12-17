@@ -1,5 +1,12 @@
 # @ctx-core/jwt
 
+## 6.2.4
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/atob@6.0.0
+
 ## 6.2.3
 
 ### Patch Changes
