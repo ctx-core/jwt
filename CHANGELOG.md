@@ -1,5 +1,17 @@
 # @ctx-core/jwt
 
+## 6.2.11
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/function@16.4.0
+  - @ctx-core/atob@6.0.1
+  - @ctx-core/error@7.1.12
+
 ## 6.2.10
 
 ### Patch Changes
