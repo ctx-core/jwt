@@ -1,5 +1,11 @@
 # @ctx-core/jwt
 
+## 6.2.20
+
+### Patch Changes
+
+- update types
+
 ## 6.2.19
 
 ### Patch Changes
