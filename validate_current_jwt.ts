@@ -11,4 +11,6 @@ export function validate_current_jwt(jwt_token) {
 		} as jwt_error_ctx_type)
 	}
 }
-export const validate__current__jwt = validate_current_jwt
+export {
+	validate_current_jwt as validate__current__jwt
+}
