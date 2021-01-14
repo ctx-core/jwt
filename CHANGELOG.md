@@ -1,5 +1,13 @@
 # @ctx-core/jwt
 
+## 6.2.23
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/function@16.9.1
+  - @ctx-core/error@7.1.23
+
 ## 6.2.22
 
 ### Patch Changes
