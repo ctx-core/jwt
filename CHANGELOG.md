@@ -1,5 +1,18 @@
 # @ctx-core/jwt
 
+## 7.0.0
+
+### Major Changes
+
+- src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.0.0
+  - @ctx-core/error@8.0.0
+  - @ctx-core/function@17.0.0
+
 ## 6.2.25
 
 ### Patch Changes
