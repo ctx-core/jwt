@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 7.0.9
+
+### Patch Changes
+
+- typescript: ^4.1.5 -> ^4.2.2
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.0.3
+  - @ctx-core/error@8.0.9
+  - @ctx-core/function@17.3.4
+
 ## 7.0.8
 
 ### Patch Changes
