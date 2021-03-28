@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 7.0.19
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.0.6
+  - @ctx-core/error@8.0.19
+  - @ctx-core/function@17.4.2
+
 ## 7.0.18
 
 ### Patch Changes
