@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 7.0.20
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.0.7
+  - @ctx-core/error@8.0.20
+  - @ctx-core/function@17.4.3
+
 ## 7.0.19
 
 ### Patch Changes
