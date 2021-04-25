@@ -1,5 +1,11 @@
 # @ctx-core/jwt
 
+## 7.0.26
+
+### Patch Changes
+
+- update dependencies
+
 ## 7.0.25
 
 ### Patch Changes
