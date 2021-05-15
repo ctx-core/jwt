@@ -1,7 +1,8 @@
+import type { nullish } from '@ctx-core/function'
 import { throw_bad_credentials } from '@ctx-core/error'
 import type { jwt_error_ctx_type } from './jwt_error_ctx_type'
 import { _jwt_token_exp } from './_jwt_token_exp'
-export function validate_current_jwt(jwt_token) {
+export function validate_current_jwt(jwt_token:string|nullish) {
 	const jwt_token_exp = _jwt_token_exp(jwt_token)
 	const jwt_token_exp_millis = jwt_token_exp * 1000
 	if (Date.now() > jwt_token_exp_millis) {

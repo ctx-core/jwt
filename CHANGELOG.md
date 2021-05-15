@@ -1,5 +1,18 @@
 # @ctx-core/jwt
 
+## 7.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.1.0
+  - @ctx-core/error@8.1.0
+  - @ctx-core/function@17.9.0
+
 ## 7.0.39
 
 ### Patch Changes
