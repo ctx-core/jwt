@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 7.1.1
+
+### Patch Changes
+
+- fix: target: 2018: nodejs compatability
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.1.1
+  - @ctx-core/error@8.1.1
+  - @ctx-core/function@17.9.1
+
 ## 7.1.0
 
 ### Minor Changes
