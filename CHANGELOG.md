@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 7.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.1.2
+  - @ctx-core/error@8.1.2
+  - @ctx-core/function@17.9.2
+
 ## 7.1.1
 
 ### Patch Changes
