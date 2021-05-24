@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jwt",
-	"version": "7.2.0",
+	"version": "7.2.1",
 	"description": "ctx-core jwt",
 	"keywords": [
 		"ctx-core",
@@ -18,7 +18,7 @@
 	"author": "Brian Takita",
 	"main": "./src/index.js",
 	"module": "./src/index.js",
-	"types": "./src/index.ts",
+	"types": "./src/index.d.ts",
 	"scripts": {
 		"build": "npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
@@ -27,9 +27,9 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "workspace:^7.1.4",
-		"@ctx-core/error": "workspace:^8.1.10",
-		"@ctx-core/function": "workspace:^17.9.2"
+		"@ctx-core/atob": "workspace:^7.1.5",
+		"@ctx-core/error": "workspace:^8.1.11",
+		"@ctx-core/function": "workspace:^17.9.3"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.4"

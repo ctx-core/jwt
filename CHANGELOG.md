@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 7.2.1
+
+### Patch Changes
+
+- types: ./src/index.d.ts: address error TS2742 issue
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.1.5
+  - @ctx-core/error@8.1.11
+  - @ctx-core/function@17.9.3
+
 ## 7.2.0
 
 ### Minor Changes
