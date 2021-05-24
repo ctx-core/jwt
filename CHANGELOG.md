@@ -1,5 +1,18 @@
 # @ctx-core/jwt
 
+## 7.3.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.2.0
+  - @ctx-core/error@8.2.0
+  - @ctx-core/function@17.10.0
+
 ## 7.2.1
 
 ### Patch Changes
