@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 7.3.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.2.1
+  - @ctx-core/error@8.2.1
+  - @ctx-core/function@17.10.1
+
 ## 7.3.0
 
 ### Minor Changes
