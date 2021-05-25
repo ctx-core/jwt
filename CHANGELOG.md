@@ -1,5 +1,18 @@
 # @ctx-core/jwt
 
+## 7.4.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.3.0
+  - @ctx-core/error@8.3.0
+  - @ctx-core/function@17.11.0
+
 ## 7.3.1
 
 ### Patch Changes
