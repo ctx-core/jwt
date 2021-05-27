@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 7.4.1
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/atob@7.3.1
+  - @ctx-core/error@8.3.1
+  - @ctx-core/function@17.11.1
+
 ## 7.4.0
 
 ### Minor Changes
