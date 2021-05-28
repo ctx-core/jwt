@@ -568,7 +568,7 @@
 
 ### Patch Changes
 
-- interface instead of type: jwt_error_Ctx
+- interface instead of type: jwt_error_ctx_I
 - Updated dependencies [undefined]
 - Updated dependencies [undefined]
   - @ctx-core/function@16.1.5
