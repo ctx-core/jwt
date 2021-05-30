@@ -1,5 +1,20 @@
 # @ctx-core/jwt
 
+## 8.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/atob@8.0.0
+  - @ctx-core/error@9.0.0
+  - @ctx-core/function@18.0.0
+
 ## 7.4.1
 
 ### Patch Changes
