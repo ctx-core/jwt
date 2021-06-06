@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jwt",
-	"version": "8.0.3",
+	"version": "8.0.4",
 	"description": "ctx-core jwt",
 	"keywords": [
 		"ctx-core",
@@ -21,15 +21,15 @@
 	"types": "./dist/index.d.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
+		"clean": "rm -f tsconfig.tsbuildinfo && rm -f dist/**/*.js && rm -f dist/**/*.d.ts && rm -f dist/**/*.map",
 		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@",
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "workspace:^8.0.0",
-		"@ctx-core/error": "workspace:^9.0.2",
-		"@ctx-core/function": "workspace:^18.1.1"
+		"@ctx-core/atob": "workspace:^8.0.1",
+		"@ctx-core/error": "workspace:^9.0.3",
+		"@ctx-core/function": "workspace:^18.1.2"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.2"

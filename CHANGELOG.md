@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 8.0.4
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/atob@8.0.1
+  - @ctx-core/error@9.0.3
+  - @ctx-core/function@18.1.2
+
 ## 8.0.3
 
 ### Patch Changes
