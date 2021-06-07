@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 8.0.5
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/atob@8.0.2
+  - @ctx-core/error@9.0.4
+  - @ctx-core/function@18.1.3
+
 ## 8.0.4
 
 ### Patch Changes
