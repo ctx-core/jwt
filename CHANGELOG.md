@@ -1,5 +1,18 @@
 # @ctx-core/jwt
 
+## 9.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/atob@9.0.0
+  - @ctx-core/error@10.0.0
+  - @ctx-core/function@19.0.0
+
 ## 8.0.6
 
 ### Patch Changes
