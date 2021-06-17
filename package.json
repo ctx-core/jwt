@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jwt",
-	"version": "9.0.1",
+	"version": "9.0.2",
 	"description": "ctx-core jwt",
 	"keywords": [
 		"ctx-core",
@@ -27,12 +27,12 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "workspace:^9.0.0",
-		"@ctx-core/error": "workspace:^10.0.0",
-		"@ctx-core/function": "workspace:^19.1.0"
+		"@ctx-core/atob": "workspace:^9.0.1",
+		"@ctx-core/error": "workspace:^10.0.1",
+		"@ctx-core/function": "workspace:^19.1.1"
 	},
 	"devDependencies": {
-		"typescript": "^4.3.2"
+		"typescript": "^4.3.3"
 	},
 	"publishConfig": {
 		"access": "public",
