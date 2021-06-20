@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 9.0.4
+
+### Patch Changes
+
+- fix: npm run clean
+- Updated dependencies [undefined]
+  - @ctx-core/atob@9.0.3
+  - @ctx-core/error@10.0.3
+  - @ctx-core/function@19.1.3
+
 ## 9.0.3
 
 ### Patch Changes
