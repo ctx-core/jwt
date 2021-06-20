@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 9.0.7
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/atob@9.0.6
+  - @ctx-core/error@10.0.6
+  - @ctx-core/function@19.1.6
+
 ## 9.0.6
 
 ### Patch Changes
