@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 9.0.6
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/atob@9.0.5
+  - @ctx-core/error@10.0.5
+  - @ctx-core/function@19.1.5
+
 ## 9.0.5
 
 ### Patch Changes

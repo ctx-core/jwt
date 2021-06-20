@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jwt",
-	"version": "9.0.5",
+	"version": "9.0.6",
 	"description": "ctx-core jwt",
 	"keywords": [
 		"ctx-core",
@@ -24,12 +24,12 @@
 		"clean": "rm -f tsconfig.tsbuildinfo && rm -f src/**/*.js && rm -f src/**/*.d.ts && rm -f src/**/*.map",
 		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@",
-		"prepare": "npm run build"
+		"prepare": "npm run clean && npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "workspace:^9.0.4",
-		"@ctx-core/error": "workspace:^10.0.4",
-		"@ctx-core/function": "workspace:^19.1.4"
+		"@ctx-core/atob": "workspace:^9.0.5",
+		"@ctx-core/error": "workspace:^10.0.5",
+		"@ctx-core/function": "workspace:^19.1.5"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.4"
