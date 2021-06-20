@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 9.0.5
+
+### Patch Changes
+
+- npm run prepare instead of npm run prepublishOnly
+- Updated dependencies [undefined]
+  - @ctx-core/atob@9.0.4
+  - @ctx-core/error@10.0.4
+  - @ctx-core/function@19.1.4
+
 ## 9.0.4
 
 ### Patch Changes
