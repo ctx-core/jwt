@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/atob": "workspace:^9.0.8",
-		"@ctx-core/error": "workspace:^10.1.1",
+		"@ctx-core/error": "workspace:^10.1.2",
 		"@ctx-core/function": "workspace:^19.1.8"
 	},
 	"devDependencies": {
