@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 9.0.10
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/atob@9.0.8
+  - @ctx-core/error@10.1.1
+  - @ctx-core/function@19.1.8
+
 ## 9.0.9
 
 ### Patch Changes
