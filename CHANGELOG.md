@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 9.0.13
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/atob@9.0.11
+  - @ctx-core/error@10.1.5
+  - @ctx-core/function@19.1.10
+
 ## 9.0.12
 
 ### Patch Changes
