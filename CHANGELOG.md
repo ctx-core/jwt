@@ -1,5 +1,11 @@
 # @ctx-core/jwt
 
+## 9.0.16
+
+### Patch Changes
+
+- update dependencies
+
 ## 9.0.15
 
 ### Patch Changes
