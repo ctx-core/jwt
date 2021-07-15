@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 10.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+- Updated dependencies [undefined]
+  - @ctx-core/atob@10.0.2
+  - @ctx-core/error@11.0.2
+  - @ctx-core/function@20.0.2
+
 ## 10.0.1
 
 ### Patch Changes
