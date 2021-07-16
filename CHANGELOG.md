@@ -1,5 +1,25 @@
 # @ctx-core/jwt
 
+## 10.0.11
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/atob@10.0.11
+  - @ctx-core/error@11.0.11
+  - @ctx-core/function@20.0.10
+
+## 10.0.10
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/atob@10.0.10
+  - @ctx-core/error@11.0.10
+  - @ctx-core/function@20.0.9
+
 ## 10.0.9
 
 ### Patch Changes
