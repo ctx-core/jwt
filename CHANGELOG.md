@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 10.0.4
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/atob@10.0.3
+  - @ctx-core/error@11.0.4
+  - @ctx-core/function@20.0.3
+
 ## 10.0.3
 
 ### Patch Changes
