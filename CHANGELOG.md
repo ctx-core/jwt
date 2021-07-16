@@ -1,5 +1,25 @@
 # @ctx-core/jwt
 
+## 10.0.6
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/atob@10.0.6
+  - @ctx-core/error@11.0.6
+  - @ctx-core/function@20.0.5
+
+## 10.0.5
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/atob@10.0.5
+  - @ctx-core/error@11.0.5
+  - @ctx-core/function@20.0.4
+
 ## 10.0.4
 
 ### Patch Changes
