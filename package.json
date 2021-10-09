@@ -36,7 +36,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "workspace:^10.0.19",
+		"@ctx-core/atob": "workspace:^10.0.20",
 		"@ctx-core/error": "workspace:^11.0.16",
 		"@ctx-core/function": "workspace:^20.2.1",
 		"esm": "^3.2.25"
