@@ -1,5 +1,11 @@
 # @ctx-core/jwt
 
+## 10.0.28
+
+### Patch Changes
+
+- ?. instead of &&
+
 ## 10.0.27
 
 ### Patch Changes
