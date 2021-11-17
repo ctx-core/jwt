@@ -1,5 +1,5 @@
-import type { nullish } from '@ctx-core/function'
 import { atob_ } from '@ctx-core/atob'
+import type { nullish } from '@ctx-core/function'
 export function jwt_token_exp_(jwt_token:string|nullish):number {
 	const atob = atob_()
 	const jwt_data = jwt_token && JSON.parse(atob(jwt_token.split('.')[1]))
