@@ -1,5 +1,27 @@
 # @ctx-core/jwt
 
+## 10.0.32
+
+### Patch Changes
+
+- @swc/cli: ^0.1.51 -> ^0.1.52
+- @swc/core: ^1.2.111 -> ^1.2.113
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/atob@10.0.27
+  - @ctx-core/error@11.1.3
+  - @ctx-core/function@20.2.7
+
+## 10.0.31
+
+### Patch Changes
+
+- @swc/core: ^1.2.110 -> ^1.2.111
+- Updated dependencies
+  - @ctx-core/atob@10.0.26
+  - @ctx-core/error@11.1.2
+  - @ctx-core/function@20.2.6
+
 ## 10.0.30
 
 ### Patch Changes
