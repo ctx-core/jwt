@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 10.0.40
+
+### Patch Changes
+
+- fix: package.json: exports
+- Updated dependencies
+  - @ctx-core/atob@10.0.34
+  - @ctx-core/error@11.1.11
+  - @ctx-core/function@20.2.14
+
 ## 10.0.39
 
 ### Patch Changes
