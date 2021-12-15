@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 10.0.41
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/atob@10.0.35
+  - @ctx-core/error@11.1.12
+  - @ctx-core/function@20.2.15
+
 ## 10.0.40
 
 ### Patch Changes
