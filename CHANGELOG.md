@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 10.0.46
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+- Updated dependencies
+  - @ctx-core/atob@10.0.40
+  - @ctx-core/error@11.1.17
+  - @ctx-core/function@20.2.20
+
 ## 10.0.45
 
 ### Patch Changes
