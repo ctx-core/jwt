@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 10.0.43
+
+### Patch Changes
+
+- fix: build
+- Updated dependencies
+  - @ctx-core/atob@10.0.37
+  - @ctx-core/error@11.1.14
+  - @ctx-core/function@20.2.17
+
 ## 10.0.42
 
 ### Patch Changes
