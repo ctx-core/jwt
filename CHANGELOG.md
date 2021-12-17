@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 10.0.44
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/atob@10.0.38
+  - @ctx-core/error@11.1.15
+  - @ctx-core/function@20.2.18
+
 ## 10.0.43
 
 ### Patch Changes
