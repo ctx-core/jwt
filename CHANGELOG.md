@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 10.0.45
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/atob@10.0.39
+  - @ctx-core/error@11.1.16
+  - @ctx-core/function@20.2.19
+
 ## 10.0.44
 
 ### Patch Changes
