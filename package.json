@@ -39,7 +39,7 @@
 		"@ctx-core/error": "workspace:^11.1.18",
 		"@ctx-core/function": "workspace:^20.2.21",
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.124"
+		"@swc/core": "^1.2.125"
 	},
 	"devDependencies": {
 		"rimraf": "^3.0.2",
