@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 10.0.47
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/atob@10.0.42
+  - @ctx-core/error@11.1.18
+  - @ctx-core/function@20.2.21
+
 ## 10.0.46
 
 ### Patch Changes
