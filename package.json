@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jwt",
-	"version": "10.0.49",
+	"version": "10.0.50",
 	"description": "ctx-core jwt",
 	"keywords": [
 		"ctx-core",
@@ -35,9 +35,9 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "workspace:^10.0.45",
-		"@ctx-core/error": "workspace:^11.1.22",
-		"@ctx-core/function": "workspace:^20.2.24",
+		"@ctx-core/atob": "workspace:^10.0.46",
+		"@ctx-core/error": "workspace:^11.1.23",
+		"@ctx-core/function": "workspace:^20.2.25",
 		"@swc/cli": "^0.1.55",
 		"@swc/core": "^1.2.127"
 	},
@@ -49,5 +49,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }
