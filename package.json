@@ -37,7 +37,7 @@
 	"dependencies": {
 		"@ctx-core/atob": "workspace:^10.0.46",
 		"@ctx-core/error": "workspace:^11.1.23",
-		"@ctx-core/function": "workspace:^20.3.0",
+		"@ctx-core/function": "workspace:^20.4.0",
 		"@swc/cli": "^0.1.55",
 		"@swc/core": "^1.2.133"
 	},
