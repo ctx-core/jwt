@@ -1,5 +1,12 @@
 # @ctx-core/jwt
 
+## 10.1.0
+
+### Minor Changes
+
+- JwtToken: + expires_in: number
+- JwtToken: aliased by Token
+
 ## 10.0.51
 
 ### Patch Changes
