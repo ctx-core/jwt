@@ -1,5 +1,13 @@
 # @ctx-core/jwt
 
+## 10.1.3
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies
+  - @ctx-core/atob@10.0.50
+
 ## 10.1.2
 
 ### Patch Changes
