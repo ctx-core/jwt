@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jwt",
-	"version": "10.1.8",
+	"version": "10.1.9",
 	"description": "ctx-core jwt",
 	"keywords": [
 		"ctx-core",
@@ -33,11 +33,11 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "^10.0.54",
-		"@ctx-core/error": "^11.4.5",
+		"@ctx-core/atob": "^10.0.55",
+		"@ctx-core/error": "^11.4.6",
 		"@ctx-core/function": "^20.7.1",
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.172"
+		"@swc/core": "^1.2.173"
 	},
 	"devDependencies": {
 		"c8": "^7.11.2",
