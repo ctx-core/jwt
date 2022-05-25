@@ -34,10 +34,10 @@
 	},
 	"dependencies": {
 		"@ctx-core/atob": "^10.0.57",
-		"@ctx-core/error": "^11.4.7",
+		"@ctx-core/error": "^11.4.8",
 		"@ctx-core/function": "^20.8.0",
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.189"
+		"@swc/core": "^1.2.192"
 	},
 	"devDependencies": {
 		"c8": "^7.11.3",
