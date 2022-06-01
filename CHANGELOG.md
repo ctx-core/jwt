@@ -1,5 +1,13 @@
 # @ctx-core/jwt
 
+## 10.1.13
+
+### Patch Changes
+
+- fix: jwt*token_exp*: jwt_token: return null when raw jwt_token does not have '.' format
+- Updated dependencies
+  - @ctx-core/error@11.5.0
+
 ## 10.1.12
 
 ### Patch Changes
