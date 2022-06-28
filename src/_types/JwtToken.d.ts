@@ -1,5 +1,5 @@
 import type { error_ctx_I } from '@ctx-core/error'
-import type { nullish } from '@ctx-core/function'
+import { type nullish } from '@ctx-core/function'
 export interface JwtToken {
 	access_token:string
 	token_type:string
