@@ -1,5 +1,11 @@
 # @ctx-core/jwt
 
+## 10.1.15
+
+### Patch Changes
+
+- @ctx-core/function: 20.9.1
+
 ## 10.1.14
 
 ### Patch Changes
