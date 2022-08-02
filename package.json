@@ -37,7 +37,7 @@
 		"@ctx-core/error": "^11.5.0",
 		"@ctx-core/function": "^20.10.0",
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.220"
+		"@swc/core": "^1.2.222"
 	},
 	"devDependencies": {
 		"c8": "^7.12.0",
