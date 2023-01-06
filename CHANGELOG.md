@@ -1,5 +1,11 @@
 # @ctx-core/jwt
 
+## 10.1.22
+
+### Patch Changes
+
+- tsconfig.json: skipLibCheck: true
+
 ## 10.1.21
 
 ### Patch Changes
