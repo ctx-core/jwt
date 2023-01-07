@@ -1,5 +1,13 @@
 # @ctx-core/jwt
 
+## 10.1.27
+
+### Patch Changes
+
+- @ctx-core/error: ^11.5.4 -> ^11.5.5
+- Updated dependencies
+  - @ctx-core/atob@10.0.65
+
 ## 10.1.26
 
 ### Patch Changes
