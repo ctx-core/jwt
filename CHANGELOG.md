@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 10.1.46
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/atob@10.0.84
+  - @ctx-core/error@11.5.14
+  - @ctx-core/function@21.6.1
+
 ## 10.1.45
 
 ### Patch Changes
