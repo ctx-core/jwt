@@ -1,5 +1,11 @@
 # @ctx-core/jwt
 
+## 10.1.49
+
+### Patch Changes
+
+- @swc/core: ^1.3.31 -> ^1.3.32
+
 ## 10.1.48
 
 ### Patch Changes
