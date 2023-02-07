@@ -1,0 +1,6 @@
+export declare function authorization__header__jwt_token_(authorization:string):string
+export {
+	authorization__header__jwt_token_ as header_authorization_jwt_token_,
+	authorization__header__jwt_token_ as _header_authorization_jwt_token,
+	authorization__header__jwt_token_ as _jwt_token__authorization__header,
+}

@@ -1,5 +1,17 @@
 # @ctx-core/jwt
 
+## 10.2.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/error@11.6.0
+
 ## 10.1.55
 
 ### Patch Changes

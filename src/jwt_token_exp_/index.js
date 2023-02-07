@@ -1,6 +1,6 @@
 import { atob_ } from '@ctx-core/atob'
 /**
- * @param {string|nullish}jwt_token
+ * @param {string}jwt_token
  * @return {number|null}
  */
 export function jwt_token_exp_(jwt_token) {
@@ -11,4 +11,7 @@ export function jwt_token_exp_(jwt_token) {
 	const jwt_data = JSON.parse(atob(atob_jwt_data))
 	return jwt_data?.exp
 }
-export { jwt_token_exp_ as _jwt_token_exp, jwt_token_exp_ as _exp__jwt_token, }
+export {
+	jwt_token_exp_ as _jwt_token_exp,
+	jwt_token_exp_ as _exp__jwt_token,
+}

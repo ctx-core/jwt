@@ -1,4 +1,4 @@
-import type { error_ctx_I } from '@ctx-core/error'
-export interface jwt_error_ctx_I extends error_ctx_I {
+import type { error_o_T } from '@ctx-core/error'
+export interface jwt_error_ctx_I extends error_o_T {
 	jwt_token:string
 }
