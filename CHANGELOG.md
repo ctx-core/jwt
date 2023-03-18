@@ -1,5 +1,11 @@
 # @ctx-core/jwt
 
+## 10.4.0
+
+### Minor Changes
+
+- - jwt**expiration**error\_
+
 ## 10.3.62
 
 ### Patch Changes
