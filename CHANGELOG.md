@@ -1,5 +1,13 @@
 # @ctx-core/jwt
 
+## 10.4.15
+
+### Patch Changes
+
+- jwt**expiration**error*: bad_credentials_error*: fix: arguments
+- Updated dependencies
+  - @ctx-core/error@12.1.2
+
 ## 10.4.14
 
 ### Patch Changes
