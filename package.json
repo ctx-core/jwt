@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jwt",
-	"version": "10.4.23",
+	"version": "10.4.24",
 	"description": "ctx-core jwt",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 	"dependencies": {
 		"@ctx-core/atob": "^10.1.68",
 		"@ctx-core/error": "^12.3.4",
-		"@ctx-core/function": "^21.14.0"
+		"@ctx-core/function": "^21.15.0"
 	},
 	"devDependencies": {
 		"c8": "^7.13.0",
