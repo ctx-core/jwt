@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 10.4.51
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/atob@10.1.94
+  - @ctx-core/error@12.3.26
+  - @ctx-core/function@21.17.19
+
 ## 10.4.50
 
 ### Patch Changes
