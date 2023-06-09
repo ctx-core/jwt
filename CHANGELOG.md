@@ -1,5 +1,11 @@
 # @ctx-core/jwt
 
+## 10.4.74
+
+### Patch Changes
+
+- jwt**expiration**is*valid*: fix: jsdoc @param
+
 ## 10.4.73
 
 ### Patch Changes

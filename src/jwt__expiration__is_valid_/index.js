@@ -1,6 +1,6 @@
 import { jwt_token_exp_ } from '../jwt_token_exp_/index.js'
 /**
- * @param jwt_token{string}
+ * @param {string}jwt_token
  * @returns {boolean}
  */
 export function jwt__expiration__is_valid_(jwt_token) {
