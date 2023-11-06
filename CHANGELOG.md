@@ -1,5 +1,11 @@
 # @ctx-core/jwt
 
+## 10.4.105
+
+### Patch Changes
+
+- @ctx-core/atob: ^10.1.143 -> ^10.1.144
+
 ## 10.4.104
 
 ### Patch Changes
