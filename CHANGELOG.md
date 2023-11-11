@@ -1,5 +1,28 @@
 # @ctx-core/jwt
 
+## 10.5.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/atob@10.2.0
+  - @ctx-core/error@12.4.0
+  - @ctx-core/function@21.21.0
+
 ## 10.4.110
 
 ### Patch Changes
