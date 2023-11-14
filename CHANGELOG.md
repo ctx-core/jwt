@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 10.5.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/atob@10.2.3
+  - @ctx-core/error@12.4.3
+  - @ctx-core/function@21.21.3
+
 ## 10.5.2
 
 ### Patch Changes
