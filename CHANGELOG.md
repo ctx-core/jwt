@@ -1,5 +1,15 @@
 # @ctx-core/jwt
 
+## 10.5.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/atob@10.2.2
+  - @ctx-core/error@12.4.2
+  - @ctx-core/function@21.21.2
+
 ## 10.5.1
 
 ### Patch Changes
