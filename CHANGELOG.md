@@ -1,5 +1,13 @@
 # @ctx-core/jwt
 
+## 10.5.12
+
+### Patch Changes
+
+- @ctx-core/atob: ^10.2.11 -> ^10.2.12
+- @ctx-core/function: ^21.22.6 -> ^21.22.7
+- @ctx-core/error: ^12.4.10 -> ^12.4.11
+
 ## 10.5.11
 
 ### Patch Changes
