@@ -1,5 +1,16 @@
 # @ctx-core/jwt
 
+## 10.5.26
+
+### Patch Changes
+
+- tsx: ^4.4.0 -> ^4.5.0
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/atob@10.2.26
+  - @ctx-core/error@12.4.25
+  - @ctx-core/function@21.22.21
+
 ## 10.5.25
 
 ### Patch Changes
