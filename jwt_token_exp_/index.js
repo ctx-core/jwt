@@ -1,4 +1,4 @@
-import { atob_ } from '@ctx-core/atob'
+import { atob_ } from 'ctx-core/atob'
 /**
  * @param {string}jwt_token
  * @return {number|null}

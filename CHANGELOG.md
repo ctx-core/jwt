@@ -1,5 +1,13 @@
 # @ctx-core/jwt
 
+## 10.5.56
+
+### Patch Changes
+
+- consolidate dependencies
+- Updated dependencies
+  - ctx-core@5.1.0
+
 ## 10.5.55
 
 ### Patch Changes
