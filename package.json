@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jwt",
-	"version": "10.5.56",
+	"version": "10.5.57",
 	"description": "ctx-core jwt",
 	"keywords": [
 		"ctx-core",
@@ -48,7 +48,7 @@
 	"devDependencies": {
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
-		"tsx": "^4.6.2",
+		"tsx": "^4.7.0",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
