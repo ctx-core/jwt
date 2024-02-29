@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jwt",
-	"version": "10.5.146",
+	"version": "10.5.147",
 	"description": "ctx-core jwt",
 	"keywords": [
 		"ctx-core",
@@ -44,7 +44,7 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^6.5.1"
+		"ctx-core": "^6.5.2"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
