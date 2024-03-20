@@ -1,5 +1,11 @@
 # @ctx-core/jwt
 
+## 10.5.158
+
+### Patch Changes
+
+- ctx-core: ^6.6.1 -> ^6.6.2
+
 ## 10.5.157
 
 ### Patch Changes
